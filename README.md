@@ -1,3 +1,2 @@
 # EMB_sys
-## Term
-### 
+## Term / Face_Recognition
